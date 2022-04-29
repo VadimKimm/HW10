@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  HW10
-//
-//  Created by Vadim Kim on 29.04.2022.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
